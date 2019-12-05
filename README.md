@@ -6,5 +6,11 @@ The notebooks contained stubbed functions to implement (see TODO sections). The 
 for predicting a time series (2) A convolutional neural network for image classification (3) Text generation (TV scripts) 
 using RNNs (4) Seq2seq model for language translation and (5) GANs for synthetic face generation.
 
-<img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/nn_pred.png" width="100">
-<img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/gan_faces.png" width = "100">
+
+<div class="row">
+  <div class="column">
+     <img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/nn_pred.png" width="200">
+   </div>
+   <div class="column"> 
+     <img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/gan_faces.png" width = "200">
+   </div>
