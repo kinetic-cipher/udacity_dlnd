@@ -14,3 +14,4 @@ using RNNs (4) Seq2seq model for language translation and (5) GANs for synthetic
    <div class="column"> 
      <img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/gan_faces.png" width = "200">
    </div>
+</div>
