@@ -7,5 +7,5 @@ for predicting a time series (2) A convolutional neural network for image classi
 using RNNs (4) Seq2seq model for language translation and (5) GANs for synthetic face generation.
 
 
-<img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/nn_pred.png" width="300" height="150"><img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/image_classify.png" width = "150" height="150"> <img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/gan_faces.png" width = "150" height="150"><img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/translate.png" width="300" height="75">
+<img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/nn_pred.png" width="300" height="150"><img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/image_classify.png" width = "150" height="150"> <img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/gan_faces.png" width = "150" height="150"><img src="https://github.com/kinetic-cipher/udacity_dlnd/blob/master/translate.png" width="320" height="100">
 
